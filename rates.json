@@ -1,4 +1,9 @@
 {
+  "latest_version": "1.0.1",
+  "store_links": {
+    "play_store": "https://play.google.com/store/apps/details?id=com.continent.financepro",
+    "ru_store": "https://apps.rustore.ru/app/com.continent.financepro"
+  },
   "base_code": "RUB",
   "conversion_rates": {
     "RUB": 1.0,
